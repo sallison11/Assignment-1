@@ -1,0 +1,70 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 50;
+     background-image: url(opacleaves.png);
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: light;
+    text-align: center;
+    padding: 12px 30px;
+    text-decoration: none;
+    font-family: "verdana", Verdana, sans-serif;
+    font-weight: 100;
+    font-size: 75px;
+    color: antiquewhite;
+} 
+
+li a:hover {
+    background-color: #003300;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+div {
+    font-size: 100;
+    text-align: center;
+    color: black;
+}
+
+.words {
+    margin-top: 300;
+    margin-left: 100;
+    margin-right: 100;
+}
+.words1 {
+    margin-top: 150;
+    margin-left: 100;
+    margin-right: 100;
+}
+.words2 {
+    margin-top: 200;
+    margin-left: 100;
+    margin-right: 100;
+}
+.words3 {
+    margin-top: 200;
+    margin-left: 100;
+    margin-right: 100;
+}
+
+.carr {
+    margin-top: 100;
+    margin-right: 400;
+}
+
+.yps {
+    height: 1870
+}
